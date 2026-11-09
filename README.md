@@ -1,90 +1,128 @@
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Omar Altoom 👋
-### Full-Stack Developer · .NET & React
 
-I'm a software developer focused on building scalable web applications, robust backend services, and practical solutions that solve real problems. I work across the full stack — from crafting responsive user interfaces to designing APIs and managing databases.
+### Full-Stack Developer | .NET & React
+
+Building scalable web applications, robust backend services, and user-focused digital solutions.
+
+I enjoy working across the full stack, from designing responsive interfaces to developing REST APIs and managing databases.
 
 [![GitHub followers](https://img.shields.io/github/followers/omar-altoom-ot?style=social)](https://github.com/omar-altoom-ot)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omar-altoom-ot)
 
 </div>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### Programming Languages
 
-### Frameworks & Platforms
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Frameworks & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
 
 ### Databases & Tools
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+<p>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### [🐾 Veterinary Hospital Management System](https://github.com/MutasemKhatab/VeterinaryHospitalSystem)
-A full-stack web and mobile application streamlining veterinary hospital operations — covering appointment scheduling, patient records, and administrative workflows.
+### 🐾 Veterinary Hospital Management System
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+[**View Repository →**](https://github.com/MutasemKhatab/VeterinaryHospitalSystem)
+
+A full-stack web and mobile application designed to streamline veterinary hospital operations, including appointment scheduling, patient records, and administrative workflows.
+
+**Technologies:**
+- C#
+- ASP.NET Core
+- React
+- Flutter
 
 ---
 
-### [📊 Menu Scraper & Excel Exporter](https://github.com/OmarAltoom/menu-exporter-)
-A web tool that automates restaurant menu extraction, structures the data, and exports it to Excel — eliminating manual data entry.
+### 📊 Menu Scraper & Excel Exporter
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+[**View Repository →**](https://github.com/OmarAltoom/menu-exporter-)
+
+A web application that automates restaurant menu extraction, structures the collected data, and exports it into Excel files, reducing manual data entry.
+
+**Technologies:**
+- React
+- TypeScript
 
 ---
 
 ### 🎮 3D Car Racing Game
-A collaborative team project delivering a fully playable 3D racing experience with custom environments, physics-based controls, and gameplay mechanics.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+A collaborative game development project featuring a playable 3D racing experience with custom environments, physics-based controls, and interactive gameplay mechanics.
+
+**Technologies:**
+- C#
+- Unity
 
 ---
 
 ## 💡 Areas of Interest
 
 - Full-Stack Web Development
-- REST API Design & Development
+- RESTful API Design & Development
+- Backend Architecture
 - Frontend Engineering
-- Database Architecture & Management
+- Database Design & Management
+- Software Architecture
 - Interactive Applications & Game Development
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=omar-altoom-ot&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-altoom-ot&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omar-altoom-ot&theme=tokyonight&hide_border=true)
+<img src="https://github-stats-extended.vercel.app/api?username=omar-altoom-ot&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=omar-altoom-ot&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-altoom-ot&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on meaningful projects and exploring new technologies.
-Feel free to browse my repositories or reach out.
+I'm always interested in learning new technologies, collaborating on meaningful projects, and building solutions that make a difference.
+
+Feel free to explore my repositories and connect with me!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-omar--altoom--ot-181717?style=for-the-badge&logo=github)](https://github.com/omar-altoom-ot)
 
 </div>
