@@ -1,57 +1,84 @@
 <div align="center">
 
-# Hello, I'm A'sem Al-Zaghal 👋
-### Junior Developer · Lifelong Learner · Building my way up 🚀
+# Hi, I'm Omar Altoom 👋
+### Full-Stack Developer · .NET & React
+
+I'm a software developer focused on building scalable web applications, robust backend services, and practical solutions that solve real problems. I work across the full stack — from crafting responsive user interfaces to designing APIs and managing databases.
+
+[![GitHub followers](https://img.shields.io/github/followers/omar-altoom-ot?style=social)](https://github.com/omar-altoom-ot)
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-- 💼 Junior Developer looking for my first professional opportunity
-- 🌱 Currently deepening my skills in JavaScript, PHP, and web development
-- 🔨 Building projects to grow my portfolio — one commit at a time
-- 🤝 Open to collaboration, feedback, and connecting with other developers
-- 📍 Based in Jordan 🇯🇴
-- ✨ Fun fact: I believe clean code is just as important as working code
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks & Platforms
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Featured Projects
 
-- ⚡ Advanced JavaScript with React
-- 🔧 PHP backend development with Laravel & MySQL
-- 🎨 Responsive design & UI/UX principles
-- 📦 Git workflows & best practices
+### [🐾 Veterinary Hospital Management System](https://github.com/MutasemKhatab/VeterinaryHospitalSystem)
+A full-stack web and mobile application streamlining veterinary hospital operations — covering appointment scheduling, patient records, and administrative workflows.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+---
+
+### [📊 Menu Scraper & Excel Exporter](https://github.com/OmarAltoom/menu-exporter-)
+A web tool that automates restaurant menu extraction, structures the data, and exports it to Excel — eliminating manual data entry.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+---
+
+### 🎮 3D Car Racing Game
+A collaborative team project delivering a fully playable 3D racing experience with custom environments, physics-based controls, and gameplay mechanics.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+
+---
+
+## 💡 Areas of Interest
+
+- Full-Stack Web Development
+- REST API Design & Development
+- Frontend Engineering
+- Database Architecture & Management
+- Interactive Applications & Game Development
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=omar-altoom-ot&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-altoom-ot&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omar-altoom-ot&theme=tokyonight&hide_border=true)
 
 ---
 
